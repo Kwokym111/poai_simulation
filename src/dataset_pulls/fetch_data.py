@@ -1,3 +1,6 @@
+
+# THIS PYTHON FILE WAS USED TO GENERATE MOCK DATA FOR INITIAL ROUND-ROBIN ASSIGNMENT TESTING
+
 import numpy as np
 import pandas as pd
 import os
