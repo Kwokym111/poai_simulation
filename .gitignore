@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Dynamically generated files
+src\ethan_original\analysis_and_testing\bigquery_renamed_temp.csv
